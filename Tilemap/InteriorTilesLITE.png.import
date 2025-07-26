@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dwl5igknm5nos"
-path="res://.godot/imported/Pemain.jpg-751a642cf4ac6dcdda5ad4d04a33c5b8.ctex"
+uid="uid://sw7hpaigd5xq"
+path="res://.godot/imported/InteriorTilesLITE.png-d2c8d83351787835371a1b43ead0e48c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Pemain.jpg"
-dest_files=["res://.godot/imported/Pemain.jpg-751a642cf4ac6dcdda5ad4d04a33c5b8.ctex"]
+source_file="res://Tilemap/InteriorTilesLITE.png"
+dest_files=["res://.godot/imported/InteriorTilesLITE.png-d2c8d83351787835371a1b43ead0e48c.ctex"]
 
 [params]
 
