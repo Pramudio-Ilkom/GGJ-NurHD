@@ -55,7 +55,6 @@ texture = ExtResource("1_epypp")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Background/Tembok/StaticBody2D"]
 position = Vector2(-1.55054, 0.310634)
-scale = Vector2(1, 1)
 shape = SubResource("RectangleShape2D_0hol4")
 
 [node name="Tembok2" type="Sprite2D" parent="Background"]
@@ -88,7 +87,6 @@ tile_set = ExtResource("4_6whob")
 
 [node name="TileMapLayer2" type="TileMapLayer" parent="Background/TileMapLayer"]
 z_index = 2
-scale = Vector2(1, 1)
 tile_map_data = PackedByteArray("AAD4//r/AAAIAAAAAAD4//v/AAAIAAEAAAD8//r/AAAIAAAAAAD8//v/AAAIAAEAAAAAAPr/AAAIAAAAAAAAAPv/AAAIAAEAAAAEAPr/AAAIAAAAAAAEAPv/AAAIAAEAAAAIAPr/AAAIAAAAAAAIAPv/AAAIAAEAAAD+////AgAHAAYAAAD+/wAAAgAHAAcAAAD+//7/AgAHAAYAAAD+//3/AgAHAAYAAAD+//z/AgAHAAYAAAD9//z/AgAIAAYAAAD9//3/AgAIAAYAAAD9//7/AgAIAAYAAAD9////AgAIAAYAAAD9/wAAAgAIAAcAAAABAPv/AgADAAYAAAABAPz/AgADAAcAAAA=")
 tile_set = ExtResource("4_6whob")
 
